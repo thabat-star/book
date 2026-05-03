@@ -4,15 +4,48 @@
     "url":"https://raw.githubusercontent.com/thabat-star/book/main/IMGS/Mustafa%20Mahmoud.jpg",
     "books": [
       {
-        "name": "الماركسيه",
+        "name": "كتاب 1",
         "url": "https://google.com",
         "imgUrl":"https://google.com"
       },
       {
-        "name": "الماركسيه",
+        "name": "كتاب 2",
+        "url": "https://google2.com",
+        "imgUrl":"https://google2.com"
+      }
+    ]
+  },
+  {
+    "name": "عبد الوهاب المسيري",
+    "url":"https://raw.githubusercontent.com/thabat-star/book/main/IMGS/Abdel%20Wahab%20El-Messiri.jpg",
+    "books": [
+      {
+        "name": "كتاب 1",
+        "url": "https://google.com",
+        "imgUrl":"https://google.com"
+      },
+      {
+        "name": "كتاب 2",
+        "url": "https://google2.com",
+        "imgUrl":"https://google2.com"
+      }
+    ]
+  },
+  {
+    "name": "مصطفي مشرفه",
+    "url":"https://raw.githubusercontent.com/thabat-star/book/main/IMGS/Ali%20Mustafa%20Mushrafa.jpg",
+    "books": [
+      {
+        "name": "كتاب 1",
+        "url": "https://google.com",
+        "imgUrl":"https://google.com"
+      },
+      {
+        "name": "كتاب 2",
         "url": "https://google2.com",
         "imgUrl":"https://google2.com"
       }
     ]
   }
+  
 ]
