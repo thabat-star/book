@@ -4,7 +4,8 @@
     "books": [
       {
         "name": "الماركسيه",
-        "url": "https://google.com"
+        "url": "https://google.com",
+        "imgUrl":"https://google.com"
       }
     ]
   }
