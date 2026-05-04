@@ -1,0 +1,30 @@
+name: Form Handler
+
+on:
+  repository_dispatch:
+    types: [form_submit]
+
+jobs:
+  process-form:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Python script
+        run: python script.py
+        env:
+          EMAIL: ${{ github.event.client_payload.email }}
+          FILE_NAME: ${{ github.event.client_payload.fileName }}
+          FILE_PATH: ${{ github.event.client_payload.path }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
