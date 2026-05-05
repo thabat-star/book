@@ -5,13 +5,13 @@
     "books": [
       {
         "name": "كتاب 1",
-        "url": "https://www.ktobati.com/sites/default/files/styles/medium/public/2020-06/Webp.net-compress-image%2830%29_4.jpg?itok=0_Zso2gk",
-        "imgUrl":"https://www.ktobati.com/sites/default/files/styles/medium/public/2020-06/Webp.net-compress-image%2830%29_4.jpg?itok=0_Zso2gk"
+        "url": "https://raw.githubusercontent.com/thabat-star/book/refs/heads/main/BookImages/MustafaMahmoud/%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D8%A7%D9%87.jpg",
+        "imgUrl":"https://raw.githubusercontent.com/thabat-star/book/refs/heads/main/BookImages/MustafaMahmoud/%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D8%A7%D9%87.jpg"
       },
       {
         "name": "كتاب 2",
-        "url": "https://www.ktobati.com/sites/default/files/styles/medium/public/2020-06/Webp.net-compress-image%2830%29_4.jpg?itok=0_Zso2gk",
-        "imgUrl":"https://www.ktobati.com/sites/default/files/styles/medium/public/2020-06/Webp.net-compress-image%2830%29_4.jpg?itok=0_Zso2gk"
+        "url": "https://raw.githubusercontent.com/thabat-star/book/refs/heads/main/BookImages/MustafaMahmoud/%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D8%A7%D9%87.jpg",
+        "imgUrl":"https://raw.githubusercontent.com/thabat-star/book/refs/heads/main/BookImages/MustafaMahmoud/%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D8%A7%D9%87.jpg"
       }
     ]
   },
