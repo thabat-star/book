@@ -2,7 +2,7 @@
   {
     "name": "مصطفي محمود",
     "url":"https://raw.githubusercontent.com/thabat-star/book/main/IMGS/Mustafa%20Mahmoud.jpg",
-    "note":"مصطفي محمود هو مفكر وفيلسوف مصري ",
+    "bio":"مصطفي محمود هو مفكر وفيلسوف مصري ",
     "books": [
       {
         "name": "كتاب 1",
@@ -19,7 +19,7 @@
   {
     "name": "عبد الوهاب المسيري",
     "url":"https://raw.githubusercontent.com/thabat-star/book/main/IMGS/Abdel%20Wahab%20El-Messiri.jpg",
-    "note":"هو",
+    "bio":"هو",
     "books": [
       {
         "name": "كتاب 1",
@@ -36,7 +36,7 @@
   {
     "name": "مصطفي مشرفه",
     "url":"https://raw.githubusercontent.com/thabat-star/book/main/IMGS/Ali%20Mustafa%20Mushrafa.jpg",
-    "note":"هو",
+    "bio":"هو",
     "books": [
       {
         "name": "كتاب 1",
